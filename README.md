@@ -1,83 +1,94 @@
-<!--
-**bilaljalook/bilaljalook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Image](https://github.com/bilaljalook.png?size=200)
 
-Here are some ideas to get you started:
+# Hi there, I'm Bilal Jalouk! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Developer and Data Specialist** based in Berlin, Germany 🇩🇪. Passionate about leveraging **data**, **automation**, and **machine learning** to create innovative solutions and tackle complex challenges. I thrive on learning, collaborating, and building impactful projects.
 
-# Hi there, I'm Bilal Jalouk 👋
+- 🌱 **Currently exploring:** Advanced machine learning techniques, cloud platforms (AWS, GCP), and new automation frameworks.
+- 👯 **Looking to collaborate on:** Open-source projects related to **data science**, **ML**, and **web development**.
+- 🤔 **Seeking help with:** [Insert something you're currently exploring or need guidance on].
+- 💬 **Ask me about:** Python, Data Science, Machine Learning, Automation, .NET, and more!
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/bill-jalouk-637750139/), [Twitter](https://twitter.com/bilaljalook), or via the links below.
+- ⚡ **Fun fact:** I once built a tank shooter game using Unity3D! 🚀
 
-I'm a passionate developer and data specialist with a strong background in data management, automation, and machine learning. I'm driven to build innovative solutions and contribute to impactful projects.
+---
 
 ## 🚀 Key Projects
 
--   **[Senti-Al](https://github.com/bilaljalook/senti_ai):**
-    >   A team project focused on sentiment analysis to predict market trends. Senti-Al utilizes advanced machine learning models (Bidirectional LSTM, CNN-LSTM, Transformer, Stacking Ensembles, Encoder-Decoder LSTM), data acquisition, time-series forecasting, and interactive data visualization.
--   **[Data Fast API](https://github.com/bilaljalook/data-fast-api):**
-    >   A project that leverages FastAPI for building high-performance APIs.
--   **[Taxifare Website](https://github.com/bilaljalook/taxifare-website):**
-    >   A project that predicts taxi fares using machine learning models.
--   **[Tanked!](https://github.com/your-repo-link/tanked):** (If you have this on GitHub)
-    >   A retro 2D top-down tank shooter game for two players, built with Unity3D and C#. Features maze navigation, destructible blocks, and power-ups. [cite: 50, 51, 52]
+Here are some projects I’m proud of:
 
-## 🛠️ Languages and Tools
+| Project Name | Description |
+|--------------|-------------|
+| **Senti-Al 📈🤖** | A sentiment analysis tool for predicting market trends using Bi-LSTM, CNN-LSTM, and Transformer models. [GitHub Repo](https://github.com/bilaljalook/senti_ai) |
+| **Data Fast API ⚡️** | A high-performance API built with FastAPI for handling data-related tasks. [GitHub Repo](https://github.com/bilaljalook/data-fast-api) |
+| **Taxifare Website 🚕💰** | Predicting taxi fares with machine learning models, deployed through a web interface. [GitHub Repo](https://github.com/bilaljalook/taxifare-website) |
+| **Tanked! 💥🕹️** | A retro 2D top-down tank shooter game, developed in Unity3D with destructible environments and power-ups. [GitHub Repo](https://github.com/bilaljalook/tanked) |
 
-![HTML](https://img.shields.io/badge/HTML-63.5%25-orange)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-33.4%25-orange)
-![Python](https://img.shields.io/badge/Python-3%25-blue)
-![Makefile](https://img.shields.io/badge/Makefile-0.1%25-yellow)
+---
 
-**From CV:**
+## 🛠️ Tech Stack
 
-* Python (Pandas, NumPy, Matplotlib) [cite: 43, 55]
-* C#, C++ [cite: 27]
-* .NET Core, .NET [cite: 6, 54]
-* SQL, PostgreSQL [cite: 43]
-* JavaScript
-* HTML, CSS
-* Git
-* Docker
-* Machine Learning, Deep Learning [cite: 43, 55]
-* SAP MM [cite: 15, 16, 17]
-* Visual Basic for Applications (VBA) [cite: 8, 20]
-* Unity3D [cite: 50, 51, 52]
-* Unreal Engine
+Here’s a snapshot of my technical skills:
 
-## 💼 Professional Experience Highlights
+- **Programming Languages:** Python, C#, C++, JavaScript, HTML, CSS, VBA  
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css,vba&perline=7" alt="Programming Languages"/>
+  
+- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, Jupyter  
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,pytorch,tensorflow,jupyter&perline=6" alt="Data Science Tools"/>
+  
+- **Frameworks & Platforms:** .NET, FastAPI, Unity, Unreal Engine  
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,unity,unreal&perline=4" alt="Frameworks"/>
+  
+- **Databases & Data Management:** SQL, PostgreSQL, SAP  
+  <img src="https://skillicons.dev/icons?i=sql,postgres,sap&perline=3" alt="Databases"/>
+  
+- **Tools & Technologies:** Git, GitHub, Docker, Postman  
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=4" alt="Tools"/>
 
-* **Data Collection Manager, Eseebase GmbH:** Developed and automated data processes, performed data analysis and cleaning, and integrated third-party APIs. [cite: 1, 2, 3, 4, 5, 6, 7, 8, 9]
-* **Sales Manager, Plentific GmbH:** Managed customer acquisition and sales pipelines using Hubspot, Confluence, and Salesforce. [cite: 10, 11, 12, 13, 14]
-* **Data Specialist, NKT Cables GmbH:** Ensured data quality in SAP MM and provided data support to internal teams. [cite: 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+---
 
-## 📫 How to reach me
+## ✨ Core Competencies
 
-* [GitHub](https://github.com/bilaljalook)
-* [LinkedIn](https://www.linkedin.com/in/bilaljalook)
-* [Twitter](https://twitter.com/bilaljalook)
+Beyond technical expertise, I bring experience in:
+
+- Project Management & Team Leadership
+- Process Automation & Optimization
+- Data-Driven Decision Making
+- Client Relationship Management
+- Sales & Business Development
+- Data Quality Assurance
+
+---
+
+## 💼 Professional Experience
+
+**Data Collection Manager** @ Eseebase GmbH: Led the automation of data processes and implemented data analysis/cleaning pipelines.
+
+**Sales Manager** @ Plentific GmbH: Managed customer acquisition and sales strategies using tools like HubSpot and Salesforce.
+
+**Data Specialist** @ NKT Cables GmbH: Focused on data quality in SAP MM and automated processes using VBA.
+
+For more details, check out my [LinkedIn Profile](https://www.linkedin.com/in/bill-jalouk-637750139/).
+
+---
 
 ## 📈 GitHub Stats
 
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilaljalook&show_icons=true&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilaljalook&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilaljalook&layout=compact&langs_count=8&theme=radical"/>
+</p>
 
-## 🏅 Achievements
+---
 
-* **Top Contributor** at XYZ Project
-* **Machine Learning Certification** from ABC Institute
+## 📫 Let’s Connect!
 
-## 🚀 Skills
+Feel free to reach out if you'd like to collaborate, chat about tech, or explore new opportunities!
 
-* Project Management, Team Leadership [cite: 54]
-* Process Optimization [cite: 36]
-* Data-Driven Decision Making [cite: 54]
-* Client Relationship Management [cite: 54]
-* Sales and Business Development [cite: 54]
+<a href="https://github.com/bilaljalook" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Bilal Jalouk GitHub" height="40" width="40" /></a>  
+<a href="https://www.linkedin.com/in/bill-jalouk-637750139/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Bilal Jalouk LinkedIn" height="40" width="40" /></a>  
+<a href="https://twitter.com/bilaljalook" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Bilal Jalouk Twitter" height="40" width="40" /></a>
 
-Thanks for visiting my profile. Feel free to reach out if you have any questions or would like to collaborate on a project!
+---
+
+Thanks for visiting my profile! Let’s build something amazing together. 😊
