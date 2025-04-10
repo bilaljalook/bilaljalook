@@ -1,4 +1,4 @@
-# Hi there, I'm Bilal Jalouk! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Bill Jalouk! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm a **Developer and Data Specialist** based in Berlin, Germany 🇩🇪. Passionate about leveraging **data**, **automation**, and **machine learning** to create innovative solutions and tackle complex challenges. I thrive on learning, collaborating, and building impactful projects.
 
