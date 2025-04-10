@@ -6,7 +6,7 @@ I'm a **Developer and Data Specialist** based in Berlin, Germany 🇩🇪. Passi
 - 👯 **Looking to collaborate on:** Open-source projects related to **data science**, **ML**, and **web development**.
 - 🤔 **Seeking help with:** [Insert something you're currently exploring or need guidance on].
 - 💬 **Ask me about:** Python, Data Science, Machine Learning, Automation, .NET, and more!
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/bill-jalouk-637750139/), [Twitter](https://twitter.com/bilaljalook), or via the links below.
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/billjk/), [Twitter](https://twitter.com/bilaljalook), or via the links below.
 - ⚡ **Fun fact:** I once built a tank shooter game using Unity3D! 🚀
 
 ---
@@ -66,7 +66,7 @@ Beyond technical expertise, I bring experience in:
 
 **Data Specialist** @ NKT Cables GmbH: Focused on data quality in SAP MM and automated processes using VBA.
 
-For more details, check out my [LinkedIn Profile](https://www.linkedin.com/in/bill-jalouk-637750139/).
+For more details, check out my [LinkedIn Profile](https://www.linkedin.com/in/billjk/).
 
 ---
 
@@ -84,7 +84,7 @@ For more details, check out my [LinkedIn Profile](https://www.linkedin.com/in/bi
 Feel free to reach out if you'd like to collaborate, chat about tech, or explore new opportunities!
 
 <a href="https://github.com/bilaljalook" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="Bilal Jalouk GitHub" height="40" width="40" /></a>  
-<a href="https://www.linkedin.com/in/bill-jalouk-637750139/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Bilal Jalouk LinkedIn" height="40" width="40" /></a>  
+<a href="https://www.linkedin.com/in/billjk/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Bilal Jalouk LinkedIn" height="40" width="40" /></a>  
 <a href="https://twitter.com/bilaljalook" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Bilal Jalouk Twitter" height="40" width="40" /></a>
 
 ---
