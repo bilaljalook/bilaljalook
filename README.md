@@ -4,7 +4,6 @@ I'm a **Developer and Data Specialist** based in Berlin, Germany 🇩🇪. Passi
 
 - 🌱 **Currently exploring:** Advanced machine learning techniques, cloud platforms (AWS, GCP), and new automation frameworks.
 - 👯 **Looking to collaborate on:** Open-source projects related to **data science**, **ML**, and **web development**.
-- 🤔 **Seeking help with:** [Insert something you're currently exploring or need guidance on].
 - 💬 **Ask me about:** Python, Data Science, Machine Learning, Automation, .NET, and more!
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/billjk/), [Twitter](https://twitter.com/bilaljalook), or via the links below.
 - ⚡ **Fun fact:** I once built a tank shooter game using Unity3D! 🚀
