@@ -16,10 +16,10 @@ Here are some projects I’m proud of:
 
 | Project Name | Description |
 |--------------|-------------|
-| **Senti-Al 📈🤖** | A sentiment analysis tool for predicting market trends using Bi-LSTM, CNN-LSTM, and Transformer models. [GitHub Repo](https://github.com/bilaljalook/senti_ai) |
-| **Data Fast API ⚡️** | A high-performance API built with FastAPI for handling data-related tasks. [GitHub Repo](https://github.com/bilaljalook/data-fast-api) |
+| **Senti-Al 📈🤖** | A sentiment analysis tool for predicting market trends using Bi-LSTM, CNN-LSTM, and Transformer models. |
+| **Data Fast API ⚡️** | A high-performance API built with FastAPI for handling data-related tasks. |
 | **Taxifare Website 🚕💰** | Predicting taxi fares with machine learning models, deployed through a web interface. [GitHub Repo](https://github.com/bilaljalook/taxifare-website) |
-| **Tanked! 💥🕹️** | A retro 2D top-down tank shooter game, developed in Unity3D with destructible environments and power-ups. [GitHub Repo](https://github.com/bilaljalook/tanked) |
+| **Tanked! 💥🕹️** | A retro 2D top-down tank shooter game, developed in Unity3D with destructible environments and power-ups. [GitHub Repo](https://github.com/bilaljalook/DiplomaProject_GPD918) |
 
 ---
 
